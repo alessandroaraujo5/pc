@@ -1,4 +1,4 @@
-name: Anonymous Passwordless SSH Server with Bore.pub
+name: guamp ssh
 
 on:
   workflow_dispatch:
