@@ -1,1 +1,1 @@
-# UbuntuSSH
+# pcSSH
