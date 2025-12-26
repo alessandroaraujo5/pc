@@ -7,7 +7,7 @@ on:
 
 jobs:
   ssh-server:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     
     steps:
     - name: Checkout repository
